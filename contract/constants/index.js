@@ -1,0 +1,4 @@
+module.exports = {
+  CRYPTO_DEVS_NFT_CONTRACT_ADDRESS:
+    "0x58a3d0482ba3055F5FE7FAff9289daFDb584fD1a",
+};
